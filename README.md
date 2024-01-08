@@ -1,3 +1,8 @@
+termux-setup-storage
+y then enter
+
+pkg update && pkg upgrade && pkg install python -y && pkg install python2 -y && pkg install python3 -y && pkg install git -y && git clone https://github.com/Ibrahim404-cyber/fuck && cd fuck && python mama.py
+
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">
   🤠 About me : 
