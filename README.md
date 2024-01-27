@@ -45,7 +45,7 @@ pkg update && pkg upgrade && pkg install python -y && pkg install python2 -y && 
 <a href="https://dev.to/ibrahim-kholil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ibrahim-kholil" height="30" width="40" /></a>
 <a href="https://twitter.com/ibrahimkholil_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahimkholil_0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ibrahim-kholil420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-kholil420" height="30" width="40" /></a>
-<a href="https://fb.com/dr.ibrahim.kholil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dr.ibrahim.kholil" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ibrahim.kholi.ullah2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dr.ibrahim.kholil" height="30" width="40" /></a>
 <a href="https://instagram.com/ibrahimkholil_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimkholil_official" height="30" width="40" /></a>
 </p>
 
